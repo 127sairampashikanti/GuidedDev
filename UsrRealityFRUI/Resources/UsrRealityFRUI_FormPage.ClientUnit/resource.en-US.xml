@@ -3,6 +3,10 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Reality FRUI form page" />
+			<Item Name="LocalizableStrings.addRecord_cxef91p_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_p1g9u8h_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_prk0zn1_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_aanahaj_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
 </Resources>
