@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4e2a0ad7-77b3-4d6c-a15d-2d39e7b0486a",
+    "Name": "UsrRealityFRUI_ListPage",
+    "ModifiedOnUtc": "\/Date(1695623611000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reality FRUI list page",
+    "DependsOn": []
+  }
+}

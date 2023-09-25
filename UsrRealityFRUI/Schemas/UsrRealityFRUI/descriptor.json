@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "973833d9-413e-496b-bbcc-2393c82a7120",
+    "Name": "UsrRealityFRUI",
+    "ModifiedOnUtc": "\/Date(1635762253000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Reality FRUI",
+    "DependsOn": []
+  }
+}

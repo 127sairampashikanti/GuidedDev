@@ -1,0 +1,28 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "9e993c21-91c1-4151-8d6f-b95a5c7815d4",
+      "A2": "UsrRealityFRUIRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2",
+      "B8": "0.0.0.0",
+      "AD1": "973833d9-413e-496b-bbcc-2393c82a7120",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+        "Pages": [
+          {
+            "UId": "f958aacb-eafa-46d2-a0c0-2dabc09bc65f",
+            "PageSchemaUId": "a4513a2f-3700-4c0c-a689-8476bc0d8488",
+            "IsDefault": true
+          }
+        ]
+      }
+    }
+  }
+}

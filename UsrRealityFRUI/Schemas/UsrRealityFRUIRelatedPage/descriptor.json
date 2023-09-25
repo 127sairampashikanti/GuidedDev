@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "9e993c21-91c1-4151-8d6f-b95a5c7815d4",
+    "Name": "UsrRealityFRUIRelatedPage",
+    "ModifiedOnUtc": "\/Date(1695623611000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Reality FRUI (Page settings)",
+    "DependsOn": []
+  }
+}

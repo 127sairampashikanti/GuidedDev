@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4bff2ea1-d44b-49c3-96c1-1189a86f1cfb",
+    "Name": "UsrRealityFRUI_Detail",
+    "ModifiedOnUtc": "\/Date(1695623611000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Reality FRUI detail",
+    "DependsOn": []
+  }
+}
